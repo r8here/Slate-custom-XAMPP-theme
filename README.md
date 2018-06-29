@@ -3,8 +3,12 @@
 This is a fully custom XAMPP theme built with Bulma v0.7.0
 
 ## Screenshots
+
 ![Slate - Custom XAMPP Theme Screenshot 1](https://raw.githubusercontent.com/r8here/Slate-Custom-XAMPP-Theme/master/screenshot-1.png)
-![Slate - Custom XAMPP Theme Screenshot 2](https://raw.githubusercontent.com/r8here/Slate-Custom-XAMPP-Theme/screen-with-nav-2.png)
+
+**with navigation**
+
+![Slate - Custom XAMPP Theme Screenshot 2](https://raw.githubusercontent.com/r8here/Slate-Custom-XAMPP-Theme/master/screen-with-nav-2.png)
 
 ## What is XAMPP?
 
@@ -14,7 +18,7 @@ see [Wikipedia](https://en.wikipedia.org/wiki/XAMPP)
 
 ## Installation
 
-**NOTE** : Make backup of original index.
+**NOTE** : Make backup of original `index.php`.
 
 - Download or clone the repo
 - Navigate to `xampp\htdocs`
