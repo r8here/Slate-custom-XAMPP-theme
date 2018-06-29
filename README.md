@@ -1,6 +1,8 @@
 # Slate - Custom XAMPP Theme
 
-This is a fully custom XAMPP theme built with Bulma v0.7.0
+A simple **dark theme for XAMPP** built with **Bulma** v0.7.0. 
+The *Star Wars* avatars in left side changes every time with respective quotation when the page is refreshed.
+Navigation bar is fixed to the bottom and has all the popular frontend/backend frameworks with development environment applications and Github/Bitbucket links for quick access. 
 
 ## Screenshots
 
