@@ -36,3 +36,7 @@ Compatible with **XAMPP v3.2.2**
 ## Authors
 
 * Gautam Kumar - [@r8here](https://twitter.com/r8here/)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
